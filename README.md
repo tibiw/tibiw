@@ -30,9 +30,17 @@ Here are some ideas to get you started:
 <!--
 🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
 💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tibiw&layout=compact&bg_color=1B1B1B&title_color=F15951&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tibiw&count_private=true&show_icons=true&theme=default&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tibiw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tibiw&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ##
 
 🏡 [website][website] **|** 
