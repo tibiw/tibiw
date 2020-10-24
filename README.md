@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ##
 
-👨 💻 building mobile applications using swift, dart, swiftui
+👨 💻 building mobile applications using swift, dart
 
 📫 you can email me directly at <a href="mailto:tibi@waxmann.ro?subject=Let's&nbsp;talk">tibi@waxmann.ro</a>
 
