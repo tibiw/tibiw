@@ -55,7 +55,18 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/c/TiborWaxmann
 [instagram]: https://www.instagram.com/tibiw/
 [linkedin]: https://www.linkedin.com/in/tiborwaxmann/
+[googleplay1]: https://play.google.com/store/apps/details?id=ro.artafierului.af_flutter_app
+[appstore1]: https://apps.apple.com/ro/app/arta-fierului-srl/id1525089761
+[appstore2]: https://apps.apple.com/ro/app/artafierului/id1541460608
 
+##
+
+🖥 published apps
+
+-google play: ▶️ [flutter app][googleplay1]
+
+-app store: 📱 [flutter app][appstore1] **|**
+📲 [swift ui app][appstore2]
 <!--
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
